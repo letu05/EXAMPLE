@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Example2\bin\Debug\net9.0\Example2.exe
+D:\New folder\EXAMPLE\Example2\bin\Debug\net9.0\Example2.deps.json
+D:\New folder\EXAMPLE\Example2\bin\Debug\net9.0\Example2.runtimeconfig.json
+D:\New folder\EXAMPLE\Example2\bin\Debug\net9.0\Example2.dll
+D:\New folder\EXAMPLE\Example2\bin\Debug\net9.0\Example2.pdb
+D:\New folder\EXAMPLE\Example2\obj\Debug\net9.0\Example2.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Example2\obj\Debug\net9.0\Example2.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Example2\obj\Debug\net9.0\Example2.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Example2\obj\Debug\net9.0\Example2.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Example2\obj\Debug\net9.0\Example2.sourcelink.json
+D:\New folder\EXAMPLE\Example2\obj\Debug\net9.0\Example2.dll
+D:\New folder\EXAMPLE\Example2\obj\Debug\net9.0\refint\Example2.dll
+D:\New folder\EXAMPLE\Example2\obj\Debug\net9.0\Example2.pdb
+D:\New folder\EXAMPLE\Example2\obj\Debug\net9.0\Example2.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Example2\obj\Debug\net9.0\ref\Example2.dll
