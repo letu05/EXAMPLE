@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\exmaplestart\bin\Debug\net9.0\exmaplestart.exe
+D:\New folder\EXAMPLE\Baitapc#\exmaplestart\bin\Debug\net9.0\exmaplestart.deps.json
+D:\New folder\EXAMPLE\Baitapc#\exmaplestart\bin\Debug\net9.0\exmaplestart.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\exmaplestart\bin\Debug\net9.0\exmaplestart.dll
+D:\New folder\EXAMPLE\Baitapc#\exmaplestart\bin\Debug\net9.0\exmaplestart.pdb
+D:\New folder\EXAMPLE\Baitapc#\exmaplestart\obj\Debug\net9.0\exmaplestart.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\exmaplestart\obj\Debug\net9.0\exmaplestart.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\exmaplestart\obj\Debug\net9.0\exmaplestart.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\exmaplestart\obj\Debug\net9.0\exmaplestart.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\exmaplestart\obj\Debug\net9.0\exmaplestart.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\exmaplestart\obj\Debug\net9.0\exmaplestart.dll
+D:\New folder\EXAMPLE\Baitapc#\exmaplestart\obj\Debug\net9.0\refint\exmaplestart.dll
+D:\New folder\EXAMPLE\Baitapc#\exmaplestart\obj\Debug\net9.0\exmaplestart.pdb
+D:\New folder\EXAMPLE\Baitapc#\exmaplestart\obj\Debug\net9.0\exmaplestart.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\exmaplestart\obj\Debug\net9.0\ref\exmaplestart.dll

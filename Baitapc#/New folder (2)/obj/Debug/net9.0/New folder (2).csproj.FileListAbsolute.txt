@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\New folder (2)\bin\Debug\net9.0\New folder (2).exe
+D:\New folder\EXAMPLE\Baitapc#\New folder (2)\bin\Debug\net9.0\New folder (2).deps.json
+D:\New folder\EXAMPLE\Baitapc#\New folder (2)\bin\Debug\net9.0\New folder (2).runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\New folder (2)\bin\Debug\net9.0\New folder (2).dll
+D:\New folder\EXAMPLE\Baitapc#\New folder (2)\bin\Debug\net9.0\New folder (2).pdb
+D:\New folder\EXAMPLE\Baitapc#\New folder (2)\obj\Debug\net9.0\New folder (2).GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\New folder (2)\obj\Debug\net9.0\New folder (2).AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\New folder (2)\obj\Debug\net9.0\New folder (2).AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\New folder (2)\obj\Debug\net9.0\New folder (2).csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\New folder (2)\obj\Debug\net9.0\New folder (2).sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\New folder (2)\obj\Debug\net9.0\New folder (2).dll
+D:\New folder\EXAMPLE\Baitapc#\New folder (2)\obj\Debug\net9.0\refint\New folder (2).dll
+D:\New folder\EXAMPLE\Baitapc#\New folder (2)\obj\Debug\net9.0\New folder (2).pdb
+D:\New folder\EXAMPLE\Baitapc#\New folder (2)\obj\Debug\net9.0\New folder (2).genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\New folder (2)\obj\Debug\net9.0\ref\New folder (2).dll

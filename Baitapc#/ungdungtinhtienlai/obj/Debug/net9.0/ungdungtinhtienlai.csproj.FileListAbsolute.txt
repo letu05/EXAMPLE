@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\ungdungtinhtienlai\obj\Debug\net9.0\ungdungtinhtienlai.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\ungdungtinhtienlai\obj\Debug\net9.0\ungdungtinhtienlai.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\ungdungtinhtienlai\obj\Debug\net9.0\ungdungtinhtienlai.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\ungdungtinhtienlai\obj\Debug\net9.0\ungdungtinhtienlai.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\ungdungtinhtienlai\obj\Debug\net9.0\ungdungtinhtienlai.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\ungdungtinhtienlai\bin\Debug\net9.0\ungdungtinhtienlai.exe
+D:\New folder\EXAMPLE\Baitapc#\ungdungtinhtienlai\bin\Debug\net9.0\ungdungtinhtienlai.deps.json
+D:\New folder\EXAMPLE\Baitapc#\ungdungtinhtienlai\bin\Debug\net9.0\ungdungtinhtienlai.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\ungdungtinhtienlai\bin\Debug\net9.0\ungdungtinhtienlai.dll
+D:\New folder\EXAMPLE\Baitapc#\ungdungtinhtienlai\bin\Debug\net9.0\ungdungtinhtienlai.pdb
+D:\New folder\EXAMPLE\Baitapc#\ungdungtinhtienlai\obj\Debug\net9.0\ungdungtinhtienlai.dll
+D:\New folder\EXAMPLE\Baitapc#\ungdungtinhtienlai\obj\Debug\net9.0\refint\ungdungtinhtienlai.dll
+D:\New folder\EXAMPLE\Baitapc#\ungdungtinhtienlai\obj\Debug\net9.0\ungdungtinhtienlai.pdb
+D:\New folder\EXAMPLE\Baitapc#\ungdungtinhtienlai\obj\Debug\net9.0\ungdungtinhtienlai.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\ungdungtinhtienlai\obj\Debug\net9.0\ref\ungdungtinhtienlai.dll

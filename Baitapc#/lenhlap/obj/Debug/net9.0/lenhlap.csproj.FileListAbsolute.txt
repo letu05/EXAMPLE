@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\lenhlap\bin\Debug\net9.0\lenhlap.exe
+D:\New folder\EXAMPLE\Baitapc#\lenhlap\bin\Debug\net9.0\lenhlap.deps.json
+D:\New folder\EXAMPLE\Baitapc#\lenhlap\bin\Debug\net9.0\lenhlap.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\lenhlap\bin\Debug\net9.0\lenhlap.dll
+D:\New folder\EXAMPLE\Baitapc#\lenhlap\bin\Debug\net9.0\lenhlap.pdb
+D:\New folder\EXAMPLE\Baitapc#\lenhlap\obj\Debug\net9.0\lenhlap.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\lenhlap\obj\Debug\net9.0\lenhlap.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\lenhlap\obj\Debug\net9.0\lenhlap.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\lenhlap\obj\Debug\net9.0\lenhlap.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\lenhlap\obj\Debug\net9.0\lenhlap.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\lenhlap\obj\Debug\net9.0\lenhlap.dll
+D:\New folder\EXAMPLE\Baitapc#\lenhlap\obj\Debug\net9.0\refint\lenhlap.dll
+D:\New folder\EXAMPLE\Baitapc#\lenhlap\obj\Debug\net9.0\lenhlap.pdb
+D:\New folder\EXAMPLE\Baitapc#\lenhlap\obj\Debug\net9.0\lenhlap.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\lenhlap\obj\Debug\net9.0\ref\lenhlap.dll

@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\bai4\bin\Debug\net9.0\bai4.exe
+D:\New folder\EXAMPLE\Baitapc#\bai4\bin\Debug\net9.0\bai4.deps.json
+D:\New folder\EXAMPLE\Baitapc#\bai4\bin\Debug\net9.0\bai4.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\bai4\bin\Debug\net9.0\bai4.dll
+D:\New folder\EXAMPLE\Baitapc#\bai4\bin\Debug\net9.0\bai4.pdb
+D:\New folder\EXAMPLE\Baitapc#\bai4\obj\Debug\net9.0\bai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\bai4\obj\Debug\net9.0\bai4.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\bai4\obj\Debug\net9.0\bai4.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\bai4\obj\Debug\net9.0\bai4.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\bai4\obj\Debug\net9.0\bai4.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\bai4\obj\Debug\net9.0\bai4.dll
+D:\New folder\EXAMPLE\Baitapc#\bai4\obj\Debug\net9.0\refint\bai4.dll
+D:\New folder\EXAMPLE\Baitapc#\bai4\obj\Debug\net9.0\bai4.pdb
+D:\New folder\EXAMPLE\Baitapc#\bai4\obj\Debug\net9.0\bai4.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\bai4\obj\Debug\net9.0\ref\bai4.dll

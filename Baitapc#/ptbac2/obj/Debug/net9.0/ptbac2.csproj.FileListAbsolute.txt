@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\ptbac2\bin\Debug\net9.0\ptbac2.exe
+D:\New folder\EXAMPLE\Baitapc#\ptbac2\bin\Debug\net9.0\ptbac2.deps.json
+D:\New folder\EXAMPLE\Baitapc#\ptbac2\bin\Debug\net9.0\ptbac2.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\ptbac2\bin\Debug\net9.0\ptbac2.dll
+D:\New folder\EXAMPLE\Baitapc#\ptbac2\bin\Debug\net9.0\ptbac2.pdb
+D:\New folder\EXAMPLE\Baitapc#\ptbac2\obj\Debug\net9.0\ptbac2.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\ptbac2\obj\Debug\net9.0\ptbac2.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\ptbac2\obj\Debug\net9.0\ptbac2.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\ptbac2\obj\Debug\net9.0\ptbac2.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\ptbac2\obj\Debug\net9.0\ptbac2.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\ptbac2\obj\Debug\net9.0\ptbac2.dll
+D:\New folder\EXAMPLE\Baitapc#\ptbac2\obj\Debug\net9.0\refint\ptbac2.dll
+D:\New folder\EXAMPLE\Baitapc#\ptbac2\obj\Debug\net9.0\ptbac2.pdb
+D:\New folder\EXAMPLE\Baitapc#\ptbac2\obj\Debug\net9.0\ptbac2.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\ptbac2\obj\Debug\net9.0\ref\ptbac2.dll

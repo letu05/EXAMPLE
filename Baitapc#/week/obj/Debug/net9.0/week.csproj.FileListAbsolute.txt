@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\week\bin\Debug\net9.0\week.exe
+D:\New folder\EXAMPLE\Baitapc#\week\bin\Debug\net9.0\week.deps.json
+D:\New folder\EXAMPLE\Baitapc#\week\bin\Debug\net9.0\week.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\week\bin\Debug\net9.0\week.dll
+D:\New folder\EXAMPLE\Baitapc#\week\bin\Debug\net9.0\week.pdb
+D:\New folder\EXAMPLE\Baitapc#\week\obj\Debug\net9.0\week.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\week\obj\Debug\net9.0\week.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\week\obj\Debug\net9.0\week.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\week\obj\Debug\net9.0\week.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\week\obj\Debug\net9.0\week.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\week\obj\Debug\net9.0\week.dll
+D:\New folder\EXAMPLE\Baitapc#\week\obj\Debug\net9.0\refint\week.dll
+D:\New folder\EXAMPLE\Baitapc#\week\obj\Debug\net9.0\week.pdb
+D:\New folder\EXAMPLE\Baitapc#\week\obj\Debug\net9.0\week.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\week\obj\Debug\net9.0\ref\week.dll

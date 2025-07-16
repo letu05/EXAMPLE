@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\dốcthanhchu\bin\Debug\net9.0\dốcthanhchu.exe
+D:\New folder\EXAMPLE\Baitapc#\dốcthanhchu\bin\Debug\net9.0\dốcthanhchu.deps.json
+D:\New folder\EXAMPLE\Baitapc#\dốcthanhchu\bin\Debug\net9.0\dốcthanhchu.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\dốcthanhchu\bin\Debug\net9.0\dốcthanhchu.dll
+D:\New folder\EXAMPLE\Baitapc#\dốcthanhchu\bin\Debug\net9.0\dốcthanhchu.pdb
+D:\New folder\EXAMPLE\Baitapc#\dốcthanhchu\obj\Debug\net9.0\dốcthanhchu.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\dốcthanhchu\obj\Debug\net9.0\dốcthanhchu.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\dốcthanhchu\obj\Debug\net9.0\dốcthanhchu.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\dốcthanhchu\obj\Debug\net9.0\dốcthanhchu.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\dốcthanhchu\obj\Debug\net9.0\dốcthanhchu.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\dốcthanhchu\obj\Debug\net9.0\dốcthanhchu.dll
+D:\New folder\EXAMPLE\Baitapc#\dốcthanhchu\obj\Debug\net9.0\refint\dốcthanhchu.dll
+D:\New folder\EXAMPLE\Baitapc#\dốcthanhchu\obj\Debug\net9.0\dốcthanhchu.pdb
+D:\New folder\EXAMPLE\Baitapc#\dốcthanhchu\obj\Debug\net9.0\dốcthanhchu.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\dốcthanhchu\obj\Debug\net9.0\ref\dốcthanhchu.dll
