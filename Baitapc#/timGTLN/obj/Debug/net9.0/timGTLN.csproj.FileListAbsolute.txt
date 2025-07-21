@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\timGTLN\bin\Debug\net9.0\timGTLN.exe
+D:\New folder\EXAMPLE\Baitapc#\timGTLN\bin\Debug\net9.0\timGTLN.deps.json
+D:\New folder\EXAMPLE\Baitapc#\timGTLN\bin\Debug\net9.0\timGTLN.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\timGTLN\bin\Debug\net9.0\timGTLN.dll
+D:\New folder\EXAMPLE\Baitapc#\timGTLN\bin\Debug\net9.0\timGTLN.pdb
+D:\New folder\EXAMPLE\Baitapc#\timGTLN\obj\Debug\net9.0\timGTLN.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\timGTLN\obj\Debug\net9.0\timGTLN.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\timGTLN\obj\Debug\net9.0\timGTLN.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\timGTLN\obj\Debug\net9.0\timGTLN.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\timGTLN\obj\Debug\net9.0\timGTLN.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\timGTLN\obj\Debug\net9.0\timGTLN.dll
+D:\New folder\EXAMPLE\Baitapc#\timGTLN\obj\Debug\net9.0\refint\timGTLN.dll
+D:\New folder\EXAMPLE\Baitapc#\timGTLN\obj\Debug\net9.0\timGTLN.pdb
+D:\New folder\EXAMPLE\Baitapc#\timGTLN\obj\Debug\net9.0\timGTLN.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\timGTLN\obj\Debug\net9.0\ref\timGTLN.dll

@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\diictionary\bin\Debug\net9.0\diictionary.exe
+D:\New folder\EXAMPLE\Baitapc#\diictionary\bin\Debug\net9.0\diictionary.deps.json
+D:\New folder\EXAMPLE\Baitapc#\diictionary\bin\Debug\net9.0\diictionary.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\diictionary\bin\Debug\net9.0\diictionary.dll
+D:\New folder\EXAMPLE\Baitapc#\diictionary\bin\Debug\net9.0\diictionary.pdb
+D:\New folder\EXAMPLE\Baitapc#\diictionary\obj\Debug\net9.0\diictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\diictionary\obj\Debug\net9.0\diictionary.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\diictionary\obj\Debug\net9.0\diictionary.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\diictionary\obj\Debug\net9.0\diictionary.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\diictionary\obj\Debug\net9.0\diictionary.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\diictionary\obj\Debug\net9.0\diictionary.dll
+D:\New folder\EXAMPLE\Baitapc#\diictionary\obj\Debug\net9.0\refint\diictionary.dll
+D:\New folder\EXAMPLE\Baitapc#\diictionary\obj\Debug\net9.0\diictionary.pdb
+D:\New folder\EXAMPLE\Baitapc#\diictionary\obj\Debug\net9.0\diictionary.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\diictionary\obj\Debug\net9.0\ref\diictionary.dll

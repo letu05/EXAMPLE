@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\findArray\bin\Debug\net9.0\findArray.exe
+D:\New folder\EXAMPLE\Baitapc#\findArray\bin\Debug\net9.0\findArray.deps.json
+D:\New folder\EXAMPLE\Baitapc#\findArray\bin\Debug\net9.0\findArray.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\findArray\bin\Debug\net9.0\findArray.dll
+D:\New folder\EXAMPLE\Baitapc#\findArray\bin\Debug\net9.0\findArray.pdb
+D:\New folder\EXAMPLE\Baitapc#\findArray\obj\Debug\net9.0\findArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\findArray\obj\Debug\net9.0\findArray.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\findArray\obj\Debug\net9.0\findArray.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\findArray\obj\Debug\net9.0\findArray.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\findArray\obj\Debug\net9.0\findArray.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\findArray\obj\Debug\net9.0\findArray.dll
+D:\New folder\EXAMPLE\Baitapc#\findArray\obj\Debug\net9.0\refint\findArray.dll
+D:\New folder\EXAMPLE\Baitapc#\findArray\obj\Debug\net9.0\findArray.pdb
+D:\New folder\EXAMPLE\Baitapc#\findArray\obj\Debug\net9.0\findArray.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\findArray\obj\Debug\net9.0\ref\findArray.dll

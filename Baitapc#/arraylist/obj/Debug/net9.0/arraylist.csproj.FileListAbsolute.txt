@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\arraylist\bin\Debug\net9.0\arraylist.exe
+D:\New folder\EXAMPLE\Baitapc#\arraylist\bin\Debug\net9.0\arraylist.deps.json
+D:\New folder\EXAMPLE\Baitapc#\arraylist\bin\Debug\net9.0\arraylist.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\arraylist\bin\Debug\net9.0\arraylist.dll
+D:\New folder\EXAMPLE\Baitapc#\arraylist\bin\Debug\net9.0\arraylist.pdb
+D:\New folder\EXAMPLE\Baitapc#\arraylist\obj\Debug\net9.0\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\arraylist\obj\Debug\net9.0\arraylist.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\arraylist\obj\Debug\net9.0\arraylist.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\arraylist\obj\Debug\net9.0\arraylist.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\arraylist\obj\Debug\net9.0\arraylist.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\arraylist\obj\Debug\net9.0\arraylist.dll
+D:\New folder\EXAMPLE\Baitapc#\arraylist\obj\Debug\net9.0\refint\arraylist.dll
+D:\New folder\EXAMPLE\Baitapc#\arraylist\obj\Debug\net9.0\arraylist.pdb
+D:\New folder\EXAMPLE\Baitapc#\arraylist\obj\Debug\net9.0\arraylist.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\arraylist\obj\Debug\net9.0\ref\arraylist.dll

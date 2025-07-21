@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\insertArray\bin\Debug\net9.0\insertArray.exe
+D:\New folder\EXAMPLE\Baitapc#\insertArray\bin\Debug\net9.0\insertArray.deps.json
+D:\New folder\EXAMPLE\Baitapc#\insertArray\bin\Debug\net9.0\insertArray.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\insertArray\bin\Debug\net9.0\insertArray.dll
+D:\New folder\EXAMPLE\Baitapc#\insertArray\bin\Debug\net9.0\insertArray.pdb
+D:\New folder\EXAMPLE\Baitapc#\insertArray\obj\Debug\net9.0\insertArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\insertArray\obj\Debug\net9.0\insertArray.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\insertArray\obj\Debug\net9.0\insertArray.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\insertArray\obj\Debug\net9.0\insertArray.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\insertArray\obj\Debug\net9.0\insertArray.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\insertArray\obj\Debug\net9.0\insertArray.dll
+D:\New folder\EXAMPLE\Baitapc#\insertArray\obj\Debug\net9.0\refint\insertArray.dll
+D:\New folder\EXAMPLE\Baitapc#\insertArray\obj\Debug\net9.0\insertArray.pdb
+D:\New folder\EXAMPLE\Baitapc#\insertArray\obj\Debug\net9.0\insertArray.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\insertArray\obj\Debug\net9.0\ref\insertArray.dll
