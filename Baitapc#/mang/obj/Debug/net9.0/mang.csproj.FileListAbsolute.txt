@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\mang\bin\Debug\net9.0\mang.exe
+D:\New folder\EXAMPLE\Baitapc#\mang\bin\Debug\net9.0\mang.deps.json
+D:\New folder\EXAMPLE\Baitapc#\mang\bin\Debug\net9.0\mang.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\mang\bin\Debug\net9.0\mang.dll
+D:\New folder\EXAMPLE\Baitapc#\mang\bin\Debug\net9.0\mang.pdb
+D:\New folder\EXAMPLE\Baitapc#\mang\obj\Debug\net9.0\mang.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\mang\obj\Debug\net9.0\mang.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\mang\obj\Debug\net9.0\mang.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\mang\obj\Debug\net9.0\mang.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\mang\obj\Debug\net9.0\mang.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\mang\obj\Debug\net9.0\mang.dll
+D:\New folder\EXAMPLE\Baitapc#\mang\obj\Debug\net9.0\refint\mang.dll
+D:\New folder\EXAMPLE\Baitapc#\mang\obj\Debug\net9.0\mang.pdb
+D:\New folder\EXAMPLE\Baitapc#\mang\obj\Debug\net9.0\mang.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\mang\obj\Debug\net9.0\ref\mang.dll

@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\nguyentomang\bin\Debug\net9.0\nguyentomang.exe
+D:\New folder\EXAMPLE\Baitapc#\nguyentomang\bin\Debug\net9.0\nguyentomang.deps.json
+D:\New folder\EXAMPLE\Baitapc#\nguyentomang\bin\Debug\net9.0\nguyentomang.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\nguyentomang\bin\Debug\net9.0\nguyentomang.dll
+D:\New folder\EXAMPLE\Baitapc#\nguyentomang\bin\Debug\net9.0\nguyentomang.pdb
+D:\New folder\EXAMPLE\Baitapc#\nguyentomang\obj\Debug\net9.0\nguyentomang.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\nguyentomang\obj\Debug\net9.0\nguyentomang.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\nguyentomang\obj\Debug\net9.0\nguyentomang.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\nguyentomang\obj\Debug\net9.0\nguyentomang.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\nguyentomang\obj\Debug\net9.0\nguyentomang.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\nguyentomang\obj\Debug\net9.0\nguyentomang.dll
+D:\New folder\EXAMPLE\Baitapc#\nguyentomang\obj\Debug\net9.0\refint\nguyentomang.dll
+D:\New folder\EXAMPLE\Baitapc#\nguyentomang\obj\Debug\net9.0\nguyentomang.pdb
+D:\New folder\EXAMPLE\Baitapc#\nguyentomang\obj\Debug\net9.0\nguyentomang.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\nguyentomang\obj\Debug\net9.0\ref\nguyentomang.dll

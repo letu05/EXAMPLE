@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\songuyento\bin\Debug\net9.0\songuyento.exe
+D:\New folder\EXAMPLE\Baitapc#\songuyento\bin\Debug\net9.0\songuyento.deps.json
+D:\New folder\EXAMPLE\Baitapc#\songuyento\bin\Debug\net9.0\songuyento.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\songuyento\bin\Debug\net9.0\songuyento.dll
+D:\New folder\EXAMPLE\Baitapc#\songuyento\bin\Debug\net9.0\songuyento.pdb
+D:\New folder\EXAMPLE\Baitapc#\songuyento\obj\Debug\net9.0\songuyento.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\songuyento\obj\Debug\net9.0\songuyento.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\songuyento\obj\Debug\net9.0\songuyento.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\songuyento\obj\Debug\net9.0\songuyento.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\songuyento\obj\Debug\net9.0\songuyento.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\songuyento\obj\Debug\net9.0\songuyento.dll
+D:\New folder\EXAMPLE\Baitapc#\songuyento\obj\Debug\net9.0\refint\songuyento.dll
+D:\New folder\EXAMPLE\Baitapc#\songuyento\obj\Debug\net9.0\songuyento.pdb
+D:\New folder\EXAMPLE\Baitapc#\songuyento\obj\Debug\net9.0\songuyento.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\songuyento\obj\Debug\net9.0\ref\songuyento.dll

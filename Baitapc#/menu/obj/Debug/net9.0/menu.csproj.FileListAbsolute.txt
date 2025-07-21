@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\menu\bin\Debug\net9.0\menu.exe
+D:\New folder\EXAMPLE\Baitapc#\menu\bin\Debug\net9.0\menu.deps.json
+D:\New folder\EXAMPLE\Baitapc#\menu\bin\Debug\net9.0\menu.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\menu\bin\Debug\net9.0\menu.dll
+D:\New folder\EXAMPLE\Baitapc#\menu\bin\Debug\net9.0\menu.pdb
+D:\New folder\EXAMPLE\Baitapc#\menu\obj\Debug\net9.0\menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\menu\obj\Debug\net9.0\menu.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\menu\obj\Debug\net9.0\menu.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\menu\obj\Debug\net9.0\menu.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\menu\obj\Debug\net9.0\menu.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\menu\obj\Debug\net9.0\menu.dll
+D:\New folder\EXAMPLE\Baitapc#\menu\obj\Debug\net9.0\refint\menu.dll
+D:\New folder\EXAMPLE\Baitapc#\menu\obj\Debug\net9.0\menu.pdb
+D:\New folder\EXAMPLE\Baitapc#\menu\obj\Debug\net9.0\menu.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\menu\obj\Debug\net9.0\ref\menu.dll

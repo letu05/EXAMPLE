@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\nguyento\bin\Debug\net9.0\nguyento.exe
+D:\New folder\EXAMPLE\Baitapc#\nguyento\bin\Debug\net9.0\nguyento.deps.json
+D:\New folder\EXAMPLE\Baitapc#\nguyento\bin\Debug\net9.0\nguyento.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\nguyento\bin\Debug\net9.0\nguyento.dll
+D:\New folder\EXAMPLE\Baitapc#\nguyento\bin\Debug\net9.0\nguyento.pdb
+D:\New folder\EXAMPLE\Baitapc#\nguyento\obj\Debug\net9.0\nguyento.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\nguyento\obj\Debug\net9.0\nguyento.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\nguyento\obj\Debug\net9.0\nguyento.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\nguyento\obj\Debug\net9.0\nguyento.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\nguyento\obj\Debug\net9.0\nguyento.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\nguyento\obj\Debug\net9.0\nguyento.dll
+D:\New folder\EXAMPLE\Baitapc#\nguyento\obj\Debug\net9.0\refint\nguyento.dll
+D:\New folder\EXAMPLE\Baitapc#\nguyento\obj\Debug\net9.0\nguyento.pdb
+D:\New folder\EXAMPLE\Baitapc#\nguyento\obj\Debug\net9.0\nguyento.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\nguyento\obj\Debug\net9.0\ref\nguyento.dll
