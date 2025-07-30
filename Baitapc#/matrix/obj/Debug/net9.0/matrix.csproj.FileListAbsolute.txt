@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\matrix\bin\Debug\net9.0\matrix.exe
+D:\New folder\EXAMPLE\Baitapc#\matrix\bin\Debug\net9.0\matrix.deps.json
+D:\New folder\EXAMPLE\Baitapc#\matrix\bin\Debug\net9.0\matrix.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\matrix\bin\Debug\net9.0\matrix.dll
+D:\New folder\EXAMPLE\Baitapc#\matrix\bin\Debug\net9.0\matrix.pdb
+D:\New folder\EXAMPLE\Baitapc#\matrix\obj\Debug\net9.0\matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\matrix\obj\Debug\net9.0\matrix.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\matrix\obj\Debug\net9.0\matrix.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\matrix\obj\Debug\net9.0\matrix.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\matrix\obj\Debug\net9.0\matrix.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\matrix\obj\Debug\net9.0\matrix.dll
+D:\New folder\EXAMPLE\Baitapc#\matrix\obj\Debug\net9.0\refint\matrix.dll
+D:\New folder\EXAMPLE\Baitapc#\matrix\obj\Debug\net9.0\matrix.pdb
+D:\New folder\EXAMPLE\Baitapc#\matrix\obj\Debug\net9.0\matrix.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\matrix\obj\Debug\net9.0\ref\matrix.dll

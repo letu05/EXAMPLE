@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\funtion\bin\Debug\net9.0\funtion.exe
+D:\New folder\EXAMPLE\Baitapc#\funtion\bin\Debug\net9.0\funtion.deps.json
+D:\New folder\EXAMPLE\Baitapc#\funtion\bin\Debug\net9.0\funtion.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\funtion\bin\Debug\net9.0\funtion.dll
+D:\New folder\EXAMPLE\Baitapc#\funtion\bin\Debug\net9.0\funtion.pdb
+D:\New folder\EXAMPLE\Baitapc#\funtion\obj\Debug\net9.0\funtion.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\funtion\obj\Debug\net9.0\funtion.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\funtion\obj\Debug\net9.0\funtion.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\funtion\obj\Debug\net9.0\funtion.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\funtion\obj\Debug\net9.0\funtion.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\funtion\obj\Debug\net9.0\funtion.dll
+D:\New folder\EXAMPLE\Baitapc#\funtion\obj\Debug\net9.0\refint\funtion.dll
+D:\New folder\EXAMPLE\Baitapc#\funtion\obj\Debug\net9.0\funtion.pdb
+D:\New folder\EXAMPLE\Baitapc#\funtion\obj\Debug\net9.0\funtion.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\funtion\obj\Debug\net9.0\ref\funtion.dll

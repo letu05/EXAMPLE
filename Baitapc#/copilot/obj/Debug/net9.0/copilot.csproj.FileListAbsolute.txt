@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\copilot\obj\Debug\net9.0\copilot.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\copilot\obj\Debug\net9.0\copilot.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\copilot\obj\Debug\net9.0\copilot.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\copilot\obj\Debug\net9.0\copilot.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\copilot\obj\Debug\net9.0\copilot.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\copilot\bin\Debug\net9.0\copilot.exe
+D:\New folder\EXAMPLE\Baitapc#\copilot\bin\Debug\net9.0\copilot.deps.json
+D:\New folder\EXAMPLE\Baitapc#\copilot\bin\Debug\net9.0\copilot.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\copilot\bin\Debug\net9.0\copilot.dll
+D:\New folder\EXAMPLE\Baitapc#\copilot\bin\Debug\net9.0\copilot.pdb
+D:\New folder\EXAMPLE\Baitapc#\copilot\obj\Debug\net9.0\copilot.dll
+D:\New folder\EXAMPLE\Baitapc#\copilot\obj\Debug\net9.0\refint\copilot.dll
+D:\New folder\EXAMPLE\Baitapc#\copilot\obj\Debug\net9.0\copilot.pdb
+D:\New folder\EXAMPLE\Baitapc#\copilot\obj\Debug\net9.0\copilot.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\copilot\obj\Debug\net9.0\ref\copilot.dll

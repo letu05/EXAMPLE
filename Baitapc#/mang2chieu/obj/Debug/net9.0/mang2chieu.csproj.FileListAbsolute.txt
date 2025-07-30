@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\mang2chieu\bin\Debug\net9.0\mang2chieu.exe
+D:\New folder\EXAMPLE\Baitapc#\mang2chieu\bin\Debug\net9.0\mang2chieu.deps.json
+D:\New folder\EXAMPLE\Baitapc#\mang2chieu\bin\Debug\net9.0\mang2chieu.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\mang2chieu\bin\Debug\net9.0\mang2chieu.dll
+D:\New folder\EXAMPLE\Baitapc#\mang2chieu\bin\Debug\net9.0\mang2chieu.pdb
+D:\New folder\EXAMPLE\Baitapc#\mang2chieu\obj\Debug\net9.0\mang2chieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\mang2chieu\obj\Debug\net9.0\mang2chieu.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\mang2chieu\obj\Debug\net9.0\mang2chieu.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\mang2chieu\obj\Debug\net9.0\mang2chieu.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\mang2chieu\obj\Debug\net9.0\mang2chieu.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\mang2chieu\obj\Debug\net9.0\mang2chieu.dll
+D:\New folder\EXAMPLE\Baitapc#\mang2chieu\obj\Debug\net9.0\refint\mang2chieu.dll
+D:\New folder\EXAMPLE\Baitapc#\mang2chieu\obj\Debug\net9.0\mang2chieu.pdb
+D:\New folder\EXAMPLE\Baitapc#\mang2chieu\obj\Debug\net9.0\mang2chieu.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\mang2chieu\obj\Debug\net9.0\ref\mang2chieu.dll

@@ -1,0 +1,15 @@
+D:\New folder\EXAMPLE\Baitapc#\trochoidomin\bin\Debug\net9.0\trochoidomin.exe
+D:\New folder\EXAMPLE\Baitapc#\trochoidomin\bin\Debug\net9.0\trochoidomin.deps.json
+D:\New folder\EXAMPLE\Baitapc#\trochoidomin\bin\Debug\net9.0\trochoidomin.runtimeconfig.json
+D:\New folder\EXAMPLE\Baitapc#\trochoidomin\bin\Debug\net9.0\trochoidomin.dll
+D:\New folder\EXAMPLE\Baitapc#\trochoidomin\bin\Debug\net9.0\trochoidomin.pdb
+D:\New folder\EXAMPLE\Baitapc#\trochoidomin\obj\Debug\net9.0\trochoidomin.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EXAMPLE\Baitapc#\trochoidomin\obj\Debug\net9.0\trochoidomin.AssemblyInfoInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\trochoidomin\obj\Debug\net9.0\trochoidomin.AssemblyInfo.cs
+D:\New folder\EXAMPLE\Baitapc#\trochoidomin\obj\Debug\net9.0\trochoidomin.csproj.CoreCompileInputs.cache
+D:\New folder\EXAMPLE\Baitapc#\trochoidomin\obj\Debug\net9.0\trochoidomin.sourcelink.json
+D:\New folder\EXAMPLE\Baitapc#\trochoidomin\obj\Debug\net9.0\trochoidomin.dll
+D:\New folder\EXAMPLE\Baitapc#\trochoidomin\obj\Debug\net9.0\refint\trochoidomin.dll
+D:\New folder\EXAMPLE\Baitapc#\trochoidomin\obj\Debug\net9.0\trochoidomin.pdb
+D:\New folder\EXAMPLE\Baitapc#\trochoidomin\obj\Debug\net9.0\trochoidomin.genruntimeconfig.cache
+D:\New folder\EXAMPLE\Baitapc#\trochoidomin\obj\Debug\net9.0\ref\trochoidomin.dll
