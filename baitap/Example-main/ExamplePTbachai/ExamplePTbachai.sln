@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamplePTbachai", "ExamplePTbachai.csproj", "{4F79C9EA-9FF8-C6DC-C7D9-7B5D07454953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F79C9EA-9FF8-C6DC-C7D9-7B5D07454953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F79C9EA-9FF8-C6DC-C7D9-7B5D07454953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F79C9EA-9FF8-C6DC-C7D9-7B5D07454953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F79C9EA-9FF8-C6DC-C7D9-7B5D07454953}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A5218E1-391B-4D17-9E88-965E6E2E7392}
+	EndGlobalSection
+EndGlobal

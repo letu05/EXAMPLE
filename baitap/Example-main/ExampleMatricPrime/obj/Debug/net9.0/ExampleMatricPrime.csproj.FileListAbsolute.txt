@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleMatricPrime\obj\Debug\net9.0\ExampleMatricPrime.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleMatricPrime\obj\Debug\net9.0\ExampleMatricPrime.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleMatricPrime\obj\Debug\net9.0\ExampleMatricPrime.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleMatricPrime\obj\Debug\net9.0\ExampleMatricPrime.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleMatricPrime\bin\Debug\net9.0\ExampleMatricPrime.exe
+D:\BAITAP\BAITAPCSHAP\ExampleMatricPrime\bin\Debug\net9.0\ExampleMatricPrime.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleMatricPrime\bin\Debug\net9.0\ExampleMatricPrime.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleMatricPrime\bin\Debug\net9.0\ExampleMatricPrime.dll
+D:\BAITAP\BAITAPCSHAP\ExampleMatricPrime\bin\Debug\net9.0\ExampleMatricPrime.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleMatricPrime\obj\Debug\net9.0\ExampleMatricPrime.dll
+D:\BAITAP\BAITAPCSHAP\ExampleMatricPrime\obj\Debug\net9.0\refint\ExampleMatricPrime.dll
+D:\BAITAP\BAITAPCSHAP\ExampleMatricPrime\obj\Debug\net9.0\ExampleMatricPrime.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleMatricPrime\obj\Debug\net9.0\ExampleMatricPrime.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleMatricPrime\obj\Debug\net9.0\ref\ExampleMatricPrime.dll

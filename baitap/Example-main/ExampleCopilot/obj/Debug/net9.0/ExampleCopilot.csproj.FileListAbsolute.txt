@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleCopilot\bin\Debug\net9.0\ExampleCopilot.exe
+D:\BAITAP\BAITAPCSHAP\ExampleCopilot\bin\Debug\net9.0\ExampleCopilot.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleCopilot\bin\Debug\net9.0\ExampleCopilot.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleCopilot\bin\Debug\net9.0\ExampleCopilot.dll
+D:\BAITAP\BAITAPCSHAP\ExampleCopilot\bin\Debug\net9.0\ExampleCopilot.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleCopilot\obj\Debug\net9.0\ExampleCopilot.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleCopilot\obj\Debug\net9.0\ExampleCopilot.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleCopilot\obj\Debug\net9.0\ExampleCopilot.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleCopilot\obj\Debug\net9.0\ExampleCopilot.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleCopilot\obj\Debug\net9.0\ExampleCopilot.dll
+D:\BAITAP\BAITAPCSHAP\ExampleCopilot\obj\Debug\net9.0\refint\ExampleCopilot.dll
+D:\BAITAP\BAITAPCSHAP\ExampleCopilot\obj\Debug\net9.0\ExampleCopilot.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleCopilot\obj\Debug\net9.0\ExampleCopilot.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleCopilot\obj\Debug\net9.0\ref\ExampleCopilot.dll

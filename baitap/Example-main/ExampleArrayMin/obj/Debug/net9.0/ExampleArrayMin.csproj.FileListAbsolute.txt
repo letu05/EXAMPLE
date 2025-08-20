@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleArrayMin\bin\Debug\net9.0\ExampleArrayMin.exe
+D:\BAITAP\BAITAPCSHAP\ExampleArrayMin\bin\Debug\net9.0\ExampleArrayMin.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleArrayMin\bin\Debug\net9.0\ExampleArrayMin.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleArrayMin\bin\Debug\net9.0\ExampleArrayMin.dll
+D:\BAITAP\BAITAPCSHAP\ExampleArrayMin\bin\Debug\net9.0\ExampleArrayMin.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleArrayMin\obj\Debug\net9.0\ExampleArrayMin.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleArrayMin\obj\Debug\net9.0\ExampleArrayMin.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleArrayMin\obj\Debug\net9.0\ExampleArrayMin.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleArrayMin\obj\Debug\net9.0\ExampleArrayMin.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleArrayMin\obj\Debug\net9.0\ExampleArrayMin.dll
+D:\BAITAP\BAITAPCSHAP\ExampleArrayMin\obj\Debug\net9.0\refint\ExampleArrayMin.dll
+D:\BAITAP\BAITAPCSHAP\ExampleArrayMin\obj\Debug\net9.0\ExampleArrayMin.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleArrayMin\obj\Debug\net9.0\ExampleArrayMin.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleArrayMin\obj\Debug\net9.0\ref\ExampleArrayMin.dll

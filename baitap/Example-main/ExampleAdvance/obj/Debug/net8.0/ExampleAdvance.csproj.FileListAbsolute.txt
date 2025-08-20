@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleAdvance\obj\Debug\net8.0\ExampleAdvance.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleAdvance\obj\Debug\net8.0\ExampleAdvance.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleAdvance\obj\Debug\net8.0\ExampleAdvance.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleAdvance\obj\Debug\net8.0\ExampleAdvance.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleAdvance\bin\Debug\net8.0\ExampleAdvance.exe
+D:\BAITAP\BAITAPCSHAP\ExampleAdvance\bin\Debug\net8.0\ExampleAdvance.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleAdvance\bin\Debug\net8.0\ExampleAdvance.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleAdvance\bin\Debug\net8.0\ExampleAdvance.dll
+D:\BAITAP\BAITAPCSHAP\ExampleAdvance\bin\Debug\net8.0\ExampleAdvance.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleAdvance\obj\Debug\net8.0\ExampleAdvance.dll
+D:\BAITAP\BAITAPCSHAP\ExampleAdvance\obj\Debug\net8.0\refint\ExampleAdvance.dll
+D:\BAITAP\BAITAPCSHAP\ExampleAdvance\obj\Debug\net8.0\ExampleAdvance.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleAdvance\obj\Debug\net8.0\ExampleAdvance.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleAdvance\obj\Debug\net8.0\ref\ExampleAdvance.dll

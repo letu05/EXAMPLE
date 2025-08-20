@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleFuntion\bin\Debug\net9.0\ExampleFuntion.exe
+D:\BAITAP\BAITAPCSHAP\ExampleFuntion\bin\Debug\net9.0\ExampleFuntion.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleFuntion\bin\Debug\net9.0\ExampleFuntion.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleFuntion\bin\Debug\net9.0\ExampleFuntion.dll
+D:\BAITAP\BAITAPCSHAP\ExampleFuntion\bin\Debug\net9.0\ExampleFuntion.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleFuntion\obj\Debug\net9.0\ExampleFuntion.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleFuntion\obj\Debug\net9.0\ExampleFuntion.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleFuntion\obj\Debug\net9.0\ExampleFuntion.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleFuntion\obj\Debug\net9.0\ExampleFuntion.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleFuntion\obj\Debug\net9.0\ExampleFuntion.dll
+D:\BAITAP\BAITAPCSHAP\ExampleFuntion\obj\Debug\net9.0\refint\ExampleFuntion.dll
+D:\BAITAP\BAITAPCSHAP\ExampleFuntion\obj\Debug\net9.0\ExampleFuntion.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleFuntion\obj\Debug\net9.0\ExampleFuntion.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleFuntion\obj\Debug\net9.0\ref\ExampleFuntion.dll

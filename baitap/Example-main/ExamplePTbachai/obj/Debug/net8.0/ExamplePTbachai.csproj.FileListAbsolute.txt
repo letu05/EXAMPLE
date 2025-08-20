@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExamplePTbachai\bin\Debug\net8.0\ExamplePTbachai.exe
+D:\BAITAP\BAITAPCSHAP\ExamplePTbachai\bin\Debug\net8.0\ExamplePTbachai.deps.json
+D:\BAITAP\BAITAPCSHAP\ExamplePTbachai\bin\Debug\net8.0\ExamplePTbachai.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExamplePTbachai\bin\Debug\net8.0\ExamplePTbachai.dll
+D:\BAITAP\BAITAPCSHAP\ExamplePTbachai\bin\Debug\net8.0\ExamplePTbachai.pdb
+D:\BAITAP\BAITAPCSHAP\ExamplePTbachai\obj\Debug\net8.0\ExamplePTbachai.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExamplePTbachai\obj\Debug\net8.0\ExamplePTbachai.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExamplePTbachai\obj\Debug\net8.0\ExamplePTbachai.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExamplePTbachai\obj\Debug\net8.0\ExamplePTbachai.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExamplePTbachai\obj\Debug\net8.0\ExamplePTbachai.dll
+D:\BAITAP\BAITAPCSHAP\ExamplePTbachai\obj\Debug\net8.0\refint\ExamplePTbachai.dll
+D:\BAITAP\BAITAPCSHAP\ExamplePTbachai\obj\Debug\net8.0\ExamplePTbachai.pdb
+D:\BAITAP\BAITAPCSHAP\ExamplePTbachai\obj\Debug\net8.0\ExamplePTbachai.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExamplePTbachai\obj\Debug\net8.0\ref\ExamplePTbachai.dll

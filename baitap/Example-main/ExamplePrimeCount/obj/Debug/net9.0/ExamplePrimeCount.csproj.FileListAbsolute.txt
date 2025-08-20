@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeCount\bin\Debug\net9.0\ExamplePrimeCount.exe
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeCount\bin\Debug\net9.0\ExamplePrimeCount.deps.json
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeCount\bin\Debug\net9.0\ExamplePrimeCount.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeCount\bin\Debug\net9.0\ExamplePrimeCount.dll
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeCount\bin\Debug\net9.0\ExamplePrimeCount.pdb
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeCount\obj\Debug\net9.0\ExamplePrimeCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeCount\obj\Debug\net9.0\ExamplePrimeCount.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeCount\obj\Debug\net9.0\ExamplePrimeCount.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeCount\obj\Debug\net9.0\ExamplePrimeCount.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeCount\obj\Debug\net9.0\ExamplePrimeCount.dll
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeCount\obj\Debug\net9.0\refint\ExamplePrimeCount.dll
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeCount\obj\Debug\net9.0\ExamplePrimeCount.pdb
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeCount\obj\Debug\net9.0\ExamplePrimeCount.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeCount\obj\Debug\net9.0\ref\ExamplePrimeCount.dll

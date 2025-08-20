@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleDictionary\bin\Debug\net9.0\ExampleDictionary.exe
+D:\BAITAP\BAITAPCSHAP\ExampleDictionary\bin\Debug\net9.0\ExampleDictionary.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleDictionary\bin\Debug\net9.0\ExampleDictionary.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleDictionary\bin\Debug\net9.0\ExampleDictionary.dll
+D:\BAITAP\BAITAPCSHAP\ExampleDictionary\bin\Debug\net9.0\ExampleDictionary.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleDictionary\obj\Debug\net9.0\ExampleDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleDictionary\obj\Debug\net9.0\ExampleDictionary.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleDictionary\obj\Debug\net9.0\ExampleDictionary.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleDictionary\obj\Debug\net9.0\ExampleDictionary.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleDictionary\obj\Debug\net9.0\ExampleDictionary.dll
+D:\BAITAP\BAITAPCSHAP\ExampleDictionary\obj\Debug\net9.0\refint\ExampleDictionary.dll
+D:\BAITAP\BAITAPCSHAP\ExampleDictionary\obj\Debug\net9.0\ExampleDictionary.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleDictionary\obj\Debug\net9.0\ExampleDictionary.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleDictionary\obj\Debug\net9.0\ref\ExampleDictionary.dll

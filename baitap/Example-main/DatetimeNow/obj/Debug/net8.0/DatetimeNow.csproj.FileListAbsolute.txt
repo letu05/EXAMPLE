@@ -1,0 +1,15 @@
+D:\BAITAP\BAITAPCSHAP\Example\DatetimeNow\bin\Debug\net8.0\DatetimeNow.exe
+D:\BAITAP\BAITAPCSHAP\Example\DatetimeNow\bin\Debug\net8.0\DatetimeNow.deps.json
+D:\BAITAP\BAITAPCSHAP\Example\DatetimeNow\bin\Debug\net8.0\DatetimeNow.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\Example\DatetimeNow\bin\Debug\net8.0\DatetimeNow.dll
+D:\BAITAP\BAITAPCSHAP\Example\DatetimeNow\bin\Debug\net8.0\DatetimeNow.pdb
+D:\BAITAP\BAITAPCSHAP\Example\DatetimeNow\obj\Debug\net8.0\DatetimeNow.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\Example\DatetimeNow\obj\Debug\net8.0\DatetimeNow.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\Example\DatetimeNow\obj\Debug\net8.0\DatetimeNow.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\Example\DatetimeNow\obj\Debug\net8.0\DatetimeNow.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\Example\DatetimeNow\obj\Debug\net8.0\DatetimeNow.sourcelink.json
+D:\BAITAP\BAITAPCSHAP\Example\DatetimeNow\obj\Debug\net8.0\DatetimeNow.dll
+D:\BAITAP\BAITAPCSHAP\Example\DatetimeNow\obj\Debug\net8.0\refint\DatetimeNow.dll
+D:\BAITAP\BAITAPCSHAP\Example\DatetimeNow\obj\Debug\net8.0\DatetimeNow.pdb
+D:\BAITAP\BAITAPCSHAP\Example\DatetimeNow\obj\Debug\net8.0\DatetimeNow.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\Example\DatetimeNow\obj\Debug\net8.0\ref\DatetimeNow.dll

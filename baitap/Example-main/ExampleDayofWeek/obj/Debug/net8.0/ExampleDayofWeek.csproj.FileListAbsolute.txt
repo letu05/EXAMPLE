@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleDayofWeek\obj\Debug\net8.0\ExampleDayofWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleDayofWeek\obj\Debug\net8.0\ExampleDayofWeek.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleDayofWeek\obj\Debug\net8.0\ExampleDayofWeek.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleDayofWeek\obj\Debug\net8.0\ExampleDayofWeek.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleDayofWeek\bin\Debug\net8.0\ExampleDayofWeek.exe
+D:\BAITAP\BAITAPCSHAP\ExampleDayofWeek\bin\Debug\net8.0\ExampleDayofWeek.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleDayofWeek\bin\Debug\net8.0\ExampleDayofWeek.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleDayofWeek\bin\Debug\net8.0\ExampleDayofWeek.dll
+D:\BAITAP\BAITAPCSHAP\ExampleDayofWeek\bin\Debug\net8.0\ExampleDayofWeek.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleDayofWeek\obj\Debug\net8.0\ExampleDayofWeek.dll
+D:\BAITAP\BAITAPCSHAP\ExampleDayofWeek\obj\Debug\net8.0\refint\ExampleDayofWeek.dll
+D:\BAITAP\BAITAPCSHAP\ExampleDayofWeek\obj\Debug\net8.0\ExampleDayofWeek.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleDayofWeek\obj\Debug\net8.0\ExampleDayofWeek.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleDayofWeek\obj\Debug\net8.0\ref\ExampleDayofWeek.dll

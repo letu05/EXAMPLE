@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleArrayList\bin\Debug\net9.0\ExampleArrayList.exe
+D:\BAITAP\BAITAPCSHAP\ExampleArrayList\bin\Debug\net9.0\ExampleArrayList.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleArrayList\bin\Debug\net9.0\ExampleArrayList.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleArrayList\bin\Debug\net9.0\ExampleArrayList.dll
+D:\BAITAP\BAITAPCSHAP\ExampleArrayList\bin\Debug\net9.0\ExampleArrayList.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleArrayList\obj\Debug\net9.0\ExampleArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleArrayList\obj\Debug\net9.0\ExampleArrayList.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleArrayList\obj\Debug\net9.0\ExampleArrayList.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleArrayList\obj\Debug\net9.0\ExampleArrayList.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleArrayList\obj\Debug\net9.0\ExampleArrayList.dll
+D:\BAITAP\BAITAPCSHAP\ExampleArrayList\obj\Debug\net9.0\refint\ExampleArrayList.dll
+D:\BAITAP\BAITAPCSHAP\ExampleArrayList\obj\Debug\net9.0\ExampleArrayList.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleArrayList\obj\Debug\net9.0\ExampleArrayList.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleArrayList\obj\Debug\net9.0\ref\ExampleArrayList.dll

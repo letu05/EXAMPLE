@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoInt\bin\Debug\net9.0\ExampleArrayTwoInt.exe
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoInt\bin\Debug\net9.0\ExampleArrayTwoInt.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoInt\bin\Debug\net9.0\ExampleArrayTwoInt.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoInt\bin\Debug\net9.0\ExampleArrayTwoInt.dll
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoInt\bin\Debug\net9.0\ExampleArrayTwoInt.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoInt\obj\Debug\net9.0\ExampleArrayTwoInt.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoInt\obj\Debug\net9.0\ExampleArrayTwoInt.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoInt\obj\Debug\net9.0\ExampleArrayTwoInt.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoInt\obj\Debug\net9.0\ExampleArrayTwoInt.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoInt\obj\Debug\net9.0\ExampleArrayTwoInt.dll
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoInt\obj\Debug\net9.0\refint\ExampleArrayTwoInt.dll
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoInt\obj\Debug\net9.0\ExampleArrayTwoInt.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoInt\obj\Debug\net9.0\ExampleArrayTwoInt.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoInt\obj\Debug\net9.0\ref\ExampleArrayTwoInt.dll

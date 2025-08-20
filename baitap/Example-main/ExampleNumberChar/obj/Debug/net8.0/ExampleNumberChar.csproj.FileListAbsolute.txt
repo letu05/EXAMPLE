@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleNumberChar\bin\Debug\net8.0\ExampleNumberChar.exe
+D:\BAITAP\BAITAPCSHAP\ExampleNumberChar\bin\Debug\net8.0\ExampleNumberChar.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleNumberChar\bin\Debug\net8.0\ExampleNumberChar.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleNumberChar\bin\Debug\net8.0\ExampleNumberChar.dll
+D:\BAITAP\BAITAPCSHAP\ExampleNumberChar\bin\Debug\net8.0\ExampleNumberChar.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleNumberChar\obj\Debug\net8.0\ExampleNumberChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleNumberChar\obj\Debug\net8.0\ExampleNumberChar.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleNumberChar\obj\Debug\net8.0\ExampleNumberChar.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleNumberChar\obj\Debug\net8.0\ExampleNumberChar.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleNumberChar\obj\Debug\net8.0\ExampleNumberChar.dll
+D:\BAITAP\BAITAPCSHAP\ExampleNumberChar\obj\Debug\net8.0\refint\ExampleNumberChar.dll
+D:\BAITAP\BAITAPCSHAP\ExampleNumberChar\obj\Debug\net8.0\ExampleNumberChar.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleNumberChar\obj\Debug\net8.0\ExampleNumberChar.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleNumberChar\obj\Debug\net8.0\ref\ExampleNumberChar.dll

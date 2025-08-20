@@ -1,0 +1,15 @@
+D:\BAITAP\BAITAPCSHAP\Example\Condictionif\bin\Debug\net8.0\Condictionif.exe
+D:\BAITAP\BAITAPCSHAP\Example\Condictionif\bin\Debug\net8.0\Condictionif.deps.json
+D:\BAITAP\BAITAPCSHAP\Example\Condictionif\bin\Debug\net8.0\Condictionif.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\Example\Condictionif\bin\Debug\net8.0\Condictionif.dll
+D:\BAITAP\BAITAPCSHAP\Example\Condictionif\bin\Debug\net8.0\Condictionif.pdb
+D:\BAITAP\BAITAPCSHAP\Example\Condictionif\obj\Debug\net8.0\Condictionif.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\Example\Condictionif\obj\Debug\net8.0\Condictionif.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\Example\Condictionif\obj\Debug\net8.0\Condictionif.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\Example\Condictionif\obj\Debug\net8.0\Condictionif.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\Example\Condictionif\obj\Debug\net8.0\Condictionif.sourcelink.json
+D:\BAITAP\BAITAPCSHAP\Example\Condictionif\obj\Debug\net8.0\Condictionif.dll
+D:\BAITAP\BAITAPCSHAP\Example\Condictionif\obj\Debug\net8.0\refint\Condictionif.dll
+D:\BAITAP\BAITAPCSHAP\Example\Condictionif\obj\Debug\net8.0\Condictionif.pdb
+D:\BAITAP\BAITAPCSHAP\Example\Condictionif\obj\Debug\net8.0\Condictionif.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\Example\Condictionif\obj\Debug\net8.0\ref\Condictionif.dll

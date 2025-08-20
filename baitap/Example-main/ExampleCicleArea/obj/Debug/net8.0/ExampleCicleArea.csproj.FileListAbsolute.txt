@@ -1,0 +1,15 @@
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCicleArea\bin\Debug\net8.0\ExampleCicleArea.exe
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCicleArea\bin\Debug\net8.0\ExampleCicleArea.deps.json
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCicleArea\bin\Debug\net8.0\ExampleCicleArea.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCicleArea\bin\Debug\net8.0\ExampleCicleArea.dll
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCicleArea\bin\Debug\net8.0\ExampleCicleArea.pdb
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCicleArea\obj\Debug\net8.0\ExampleCicleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCicleArea\obj\Debug\net8.0\ExampleCicleArea.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCicleArea\obj\Debug\net8.0\ExampleCicleArea.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCicleArea\obj\Debug\net8.0\ExampleCicleArea.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCicleArea\obj\Debug\net8.0\ExampleCicleArea.sourcelink.json
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCicleArea\obj\Debug\net8.0\ExampleCicleArea.dll
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCicleArea\obj\Debug\net8.0\refint\ExampleCicleArea.dll
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCicleArea\obj\Debug\net8.0\ExampleCicleArea.pdb
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCicleArea\obj\Debug\net8.0\ExampleCicleArea.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCicleArea\obj\Debug\net8.0\ref\ExampleCicleArea.dll

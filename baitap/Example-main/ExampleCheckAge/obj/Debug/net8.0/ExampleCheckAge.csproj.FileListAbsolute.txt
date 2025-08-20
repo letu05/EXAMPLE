@@ -1,0 +1,15 @@
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCheckAge\bin\Debug\net8.0\ExampleCheckAge.exe
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCheckAge\bin\Debug\net8.0\ExampleCheckAge.deps.json
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCheckAge\bin\Debug\net8.0\ExampleCheckAge.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCheckAge\bin\Debug\net8.0\ExampleCheckAge.dll
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCheckAge\bin\Debug\net8.0\ExampleCheckAge.pdb
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCheckAge\obj\Debug\net8.0\ExampleCheckAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCheckAge\obj\Debug\net8.0\ExampleCheckAge.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCheckAge\obj\Debug\net8.0\ExampleCheckAge.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCheckAge\obj\Debug\net8.0\ExampleCheckAge.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCheckAge\obj\Debug\net8.0\ExampleCheckAge.sourcelink.json
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCheckAge\obj\Debug\net8.0\ExampleCheckAge.dll
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCheckAge\obj\Debug\net8.0\refint\ExampleCheckAge.dll
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCheckAge\obj\Debug\net8.0\ExampleCheckAge.pdb
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCheckAge\obj\Debug\net8.0\ExampleCheckAge.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\Example\ExampleCheckAge\obj\Debug\net8.0\ref\ExampleCheckAge.dll

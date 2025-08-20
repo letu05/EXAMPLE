@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleArray\bin\Debug\net9.0\ExampleArray.exe
+D:\BAITAP\BAITAPCSHAP\ExampleArray\bin\Debug\net9.0\ExampleArray.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleArray\bin\Debug\net9.0\ExampleArray.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleArray\bin\Debug\net9.0\ExampleArray.dll
+D:\BAITAP\BAITAPCSHAP\ExampleArray\bin\Debug\net9.0\ExampleArray.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleArray\obj\Debug\net9.0\ExampleArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleArray\obj\Debug\net9.0\ExampleArray.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleArray\obj\Debug\net9.0\ExampleArray.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleArray\obj\Debug\net9.0\ExampleArray.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleArray\obj\Debug\net9.0\ExampleArray.dll
+D:\BAITAP\BAITAPCSHAP\ExampleArray\obj\Debug\net9.0\refint\ExampleArray.dll
+D:\BAITAP\BAITAPCSHAP\ExampleArray\obj\Debug\net9.0\ExampleArray.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleArray\obj\Debug\net9.0\ExampleArray.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleArray\obj\Debug\net9.0\ref\ExampleArray.dll

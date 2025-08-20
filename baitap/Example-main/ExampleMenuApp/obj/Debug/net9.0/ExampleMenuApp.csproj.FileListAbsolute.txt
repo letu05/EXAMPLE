@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleMenuApp\bin\Debug\net9.0\ExampleMenuApp.exe
+D:\BAITAP\BAITAPCSHAP\ExampleMenuApp\bin\Debug\net9.0\ExampleMenuApp.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleMenuApp\bin\Debug\net9.0\ExampleMenuApp.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleMenuApp\bin\Debug\net9.0\ExampleMenuApp.dll
+D:\BAITAP\BAITAPCSHAP\ExampleMenuApp\bin\Debug\net9.0\ExampleMenuApp.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleMenuApp\obj\Debug\net9.0\ExampleMenuApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleMenuApp\obj\Debug\net9.0\ExampleMenuApp.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleMenuApp\obj\Debug\net9.0\ExampleMenuApp.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleMenuApp\obj\Debug\net9.0\ExampleMenuApp.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleMenuApp\obj\Debug\net9.0\ExampleMenuApp.dll
+D:\BAITAP\BAITAPCSHAP\ExampleMenuApp\obj\Debug\net9.0\refint\ExampleMenuApp.dll
+D:\BAITAP\BAITAPCSHAP\ExampleMenuApp\obj\Debug\net9.0\ExampleMenuApp.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleMenuApp\obj\Debug\net9.0\ExampleMenuApp.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleMenuApp\obj\Debug\net9.0\ref\ExampleMenuApp.dll

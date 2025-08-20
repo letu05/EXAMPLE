@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleFindArray\bin\Debug\net9.0\ExampleFindArray.exe
+D:\BAITAP\BAITAPCSHAP\ExampleFindArray\bin\Debug\net9.0\ExampleFindArray.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleFindArray\bin\Debug\net9.0\ExampleFindArray.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleFindArray\bin\Debug\net9.0\ExampleFindArray.dll
+D:\BAITAP\BAITAPCSHAP\ExampleFindArray\bin\Debug\net9.0\ExampleFindArray.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleFindArray\obj\Debug\net9.0\ExampleFindArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleFindArray\obj\Debug\net9.0\ExampleFindArray.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleFindArray\obj\Debug\net9.0\ExampleFindArray.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleFindArray\obj\Debug\net9.0\ExampleFindArray.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleFindArray\obj\Debug\net9.0\ExampleFindArray.dll
+D:\BAITAP\BAITAPCSHAP\ExampleFindArray\obj\Debug\net9.0\refint\ExampleFindArray.dll
+D:\BAITAP\BAITAPCSHAP\ExampleFindArray\obj\Debug\net9.0\ExampleFindArray.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleFindArray\obj\Debug\net9.0\ExampleFindArray.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleFindArray\obj\Debug\net9.0\ref\ExampleFindArray.dll

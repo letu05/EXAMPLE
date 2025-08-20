@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleInsertArray\bin\Debug\net9.0\ExampleInsertArray.exe
+D:\BAITAP\BAITAPCSHAP\ExampleInsertArray\bin\Debug\net9.0\ExampleInsertArray.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleInsertArray\bin\Debug\net9.0\ExampleInsertArray.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleInsertArray\bin\Debug\net9.0\ExampleInsertArray.dll
+D:\BAITAP\BAITAPCSHAP\ExampleInsertArray\bin\Debug\net9.0\ExampleInsertArray.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleInsertArray\obj\Debug\net9.0\ExampleInsertArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleInsertArray\obj\Debug\net9.0\ExampleInsertArray.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleInsertArray\obj\Debug\net9.0\ExampleInsertArray.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleInsertArray\obj\Debug\net9.0\ExampleInsertArray.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleInsertArray\obj\Debug\net9.0\ExampleInsertArray.dll
+D:\BAITAP\BAITAPCSHAP\ExampleInsertArray\obj\Debug\net9.0\refint\ExampleInsertArray.dll
+D:\BAITAP\BAITAPCSHAP\ExampleInsertArray\obj\Debug\net9.0\ExampleInsertArray.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleInsertArray\obj\Debug\net9.0\ExampleInsertArray.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleInsertArray\obj\Debug\net9.0\ref\ExampleInsertArray.dll

@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleForEach\obj\Debug\net8.0\ExampleForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleForEach\obj\Debug\net8.0\ExampleForEach.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleForEach\obj\Debug\net8.0\ExampleForEach.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleForEach\obj\Debug\net8.0\ExampleForEach.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleForEach\bin\Debug\net8.0\ExampleForEach.exe
+D:\BAITAP\BAITAPCSHAP\ExampleForEach\bin\Debug\net8.0\ExampleForEach.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleForEach\bin\Debug\net8.0\ExampleForEach.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleForEach\bin\Debug\net8.0\ExampleForEach.dll
+D:\BAITAP\BAITAPCSHAP\ExampleForEach\bin\Debug\net8.0\ExampleForEach.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleForEach\obj\Debug\net8.0\ExampleForEach.dll
+D:\BAITAP\BAITAPCSHAP\ExampleForEach\obj\Debug\net8.0\refint\ExampleForEach.dll
+D:\BAITAP\BAITAPCSHAP\ExampleForEach\obj\Debug\net8.0\ExampleForEach.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleForEach\obj\Debug\net8.0\ExampleForEach.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleForEach\obj\Debug\net8.0\ref\ExampleForEach.dll

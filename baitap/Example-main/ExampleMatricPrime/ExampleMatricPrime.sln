@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleMatricPrime", "ExampleMatricPrime.csproj", "{46B2D5B0-0CE1-700D-75F3-E2D1DD7EEBDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46B2D5B0-0CE1-700D-75F3-E2D1DD7EEBDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B2D5B0-0CE1-700D-75F3-E2D1DD7EEBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B2D5B0-0CE1-700D-75F3-E2D1DD7EEBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B2D5B0-0CE1-700D-75F3-E2D1DD7EEBDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {324928BE-2BC9-462F-AD4F-143EC6C877EF}
+	EndGlobalSection
+EndGlobal

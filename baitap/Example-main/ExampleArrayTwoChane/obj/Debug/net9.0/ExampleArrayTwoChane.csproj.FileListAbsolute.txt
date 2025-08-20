@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoChane\bin\Debug\net9.0\ExampleArrayTwoChane.exe
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoChane\bin\Debug\net9.0\ExampleArrayTwoChane.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoChane\bin\Debug\net9.0\ExampleArrayTwoChane.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoChane\bin\Debug\net9.0\ExampleArrayTwoChane.dll
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoChane\bin\Debug\net9.0\ExampleArrayTwoChane.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoChane\obj\Debug\net9.0\ExampleArrayTwoChane.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoChane\obj\Debug\net9.0\ExampleArrayTwoChane.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoChane\obj\Debug\net9.0\ExampleArrayTwoChane.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoChane\obj\Debug\net9.0\ExampleArrayTwoChane.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoChane\obj\Debug\net9.0\ExampleArrayTwoChane.dll
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoChane\obj\Debug\net9.0\refint\ExampleArrayTwoChane.dll
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoChane\obj\Debug\net9.0\ExampleArrayTwoChane.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoChane\obj\Debug\net9.0\ExampleArrayTwoChane.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleArrayTwoChane\obj\Debug\net9.0\ref\ExampleArrayTwoChane.dll
