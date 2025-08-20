@@ -1,0 +1,15 @@
+C:\New folder\EXAMPLE\baiktk\bin\Debug\net8.0\baiktk.exe
+C:\New folder\EXAMPLE\baiktk\bin\Debug\net8.0\baiktk.deps.json
+C:\New folder\EXAMPLE\baiktk\bin\Debug\net8.0\baiktk.runtimeconfig.json
+C:\New folder\EXAMPLE\baiktk\bin\Debug\net8.0\baiktk.dll
+C:\New folder\EXAMPLE\baiktk\bin\Debug\net8.0\baiktk.pdb
+C:\New folder\EXAMPLE\baiktk\obj\Debug\net8.0\baiktk.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\EXAMPLE\baiktk\obj\Debug\net8.0\baiktk.AssemblyInfoInputs.cache
+C:\New folder\EXAMPLE\baiktk\obj\Debug\net8.0\baiktk.AssemblyInfo.cs
+C:\New folder\EXAMPLE\baiktk\obj\Debug\net8.0\baiktk.csproj.CoreCompileInputs.cache
+C:\New folder\EXAMPLE\baiktk\obj\Debug\net8.0\baiktk.sourcelink.json
+C:\New folder\EXAMPLE\baiktk\obj\Debug\net8.0\baiktk.dll
+C:\New folder\EXAMPLE\baiktk\obj\Debug\net8.0\refint\baiktk.dll
+C:\New folder\EXAMPLE\baiktk\obj\Debug\net8.0\baiktk.pdb
+C:\New folder\EXAMPLE\baiktk\obj\Debug\net8.0\baiktk.genruntimeconfig.cache
+C:\New folder\EXAMPLE\baiktk\obj\Debug\net8.0\ref\baiktk.dll
